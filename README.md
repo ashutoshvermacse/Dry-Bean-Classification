@@ -3,14 +3,13 @@
 This project provides a comprehensive comparative analysis of various machine learning models applied to the 'Dry Bean' dataset from the UCI Machine Learning Repository. The aim is to evaluate the performance and effectiveness of different classification algorithms in identifying and categorizing dry bean species.
 
 ### **Dataset:**
------------------
+------
 - **`Source:`** UCI Machine Learning Repository
 - **`Dataset Name:`** Dry Bean Dataset
 - **`Description:`** The dataset consists of multiple features extracted from images of dry beans, such as area, perimeter, compactness, length, width, asymmetry coefficient, and others. The target variable represents different types of beans.
 
 ### **Classification Algorithms Used:**
-------------------------------------------
-------------------------------------------
+-------
 1. **Multinomial Logistic Regression:**
    - A generalized linear model used for multi-class classification tasks, extending logistic regression to handle more than two classes.
    
@@ -36,6 +35,7 @@ This project provides a comprehensive comparative analysis of various machine le
    - A probabilistic classifier based on Bayes' theorem, assuming independence between the features given the class label.
 
 ### **Results**
+------
 The project generates performance metrics and visualizations for each model:
 
 - **`Confusion Matrices:`** Displayed for each model to show the classification performance.
