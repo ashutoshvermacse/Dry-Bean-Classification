@@ -35,6 +35,6 @@ This project provides a comprehensive comparative analysis of various machine le
 #### **Results**
 The project generates performance metrics and visualizations for each model:
 
-- `**Confusion Matrices:**` Displayed for each model to show the classification performance.
-- `**ROC Curves:**` Separate plots for each model to compare how well each model discriminates between classes.
-- `**Performance Metrics:**` A comprehensive table showing accuracy, precision, recall, F1 score, and AUC values for all models.
+- **`Confusion Matrices:`** Displayed for each model to show the classification performance.
+- **`ROC Curves:`** Separate plots for each model to compare how well each model discriminates between classes.
+- **`Performance Metrics:`** A comprehensive table showing accuracy, precision, recall, F1 score, and AUC values for all models.
