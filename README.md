@@ -2,9 +2,9 @@ This project provides a comprehensive comparative analysis of various machine le
 
 #### **Dataset:**
 
-- **Source:** UCI Machine Learning Repository
-- **Dataset Name:** Dry Bean Dataset
-- **Description:** The dataset consists of multiple features extracted from images of dry beans, such as area, perimeter, compactness, length, width, asymmetry coefficient, and others. The target variable represents different types of beans.
+- `Source:` UCI Machine Learning Repository
+- `Dataset Name:` Dry Bean Dataset
+- `Description:` The dataset consists of multiple features extracted from images of dry beans, such as area, perimeter, compactness, length, width, asymmetry coefficient, and others. The target variable represents different types of beans.
 
 #### **Classification Algorithms Used:**
 
@@ -35,6 +35,6 @@ This project provides a comprehensive comparative analysis of various machine le
 #### **Results**
 The project generates performance metrics and visualizations for each model:
 
-- **Confusion Matrices:** Displayed for each model to show the classification performance.
-- **ROC Curves:** Separate plots for each model to compare how well each model discriminates between classes.
-- **Performance Metrics:** A comprehensive table showing accuracy, precision, recall, F1 score, and AUC values for all models.
+- `Confusion Matrices:` Displayed for each model to show the classification performance.
+- `ROC Curves:` Separate plots for each model to compare how well each model discriminates between classes.
+- `Performance Metrics:` A comprehensive table showing accuracy, precision, recall, F1 score, and AUC values for all models.
